@@ -1,0 +1,12 @@
+{
+  "files": {
+    "attack_layer4/TCP-KILL.js": [
+      {
+        "id": "0a0c74cb-e14b-4785-8204-f65a26f804d0",
+        "line": 39,
+        "version": 1,
+        "index": 988
+      }
+    ]
+  }
+}
